@@ -56,15 +56,24 @@ void loop()
 
 ### OUTPUT
 
-### GRAPH AND TABULATION 
-![image](https://github.com/vasanthkumarch/Experiment-no-7-DC-Motor-Speed-Control-Using-Arduino/assets/36288975/739cc470-48c8-4873-a730-6319b4afc602)
+CIRCUIT DIAGRAM
+
+![Screenshot 2024-04-06 174726](https://github.com/divyadivya10/Experiment-no-7-DC-Motor-Speed-Control-Using-Arduino/assets/119560271/a11e951f-ba9e-4b80-8afc-2fa76583a38a)
 
 
+SCHEMATIC DIAGRAM
 
-![image](https://github.com/vasanthkumarch/Experiment-no-7-DC-Motor-Speed-Control-Using-Arduino/assets/36288975/07e9b28e-9a5b-47bd-a023-3c27fe00fb2b)
+![Screenshot 2024-04-06 174812](https://github.com/divyadivya10/Experiment-no-7-DC-Motor-Speed-Control-Using-Arduino/assets/119560271/06a57795-b92b-47a2-8e54-745c6d4582f4)
+
+TABULATION
+
+ ![WhatsApp Image 2024-04-05 at 16 21 35_d07c9a12](https://github.com/divyadivya10/Experiment-no-7-DC-Motor-Speed-Control-Using-Arduino/assets/119560271/e78f19a9-40e0-4bcf-8e2c-0a03c650061d)
+
+ GRAPH
+
+ ![WhatsApp Image 2024-04-05 at 16 21 30_9cae2841](https://github.com/divyadivya10/Experiment-no-7-DC-Motor-Speed-Control-Using-Arduino/assets/119560271/6a1e3478-a761-4aea-85de-945b44bf84ee)
 
 
-![image](https://github.com/vasanthkumarch/Experiment-no-7-DC-Motor-Speed-Control-Using-Arduino/assets/36288975/67ed339f-8011-4acc-b793-e5d4930639c7)
 
 
 
