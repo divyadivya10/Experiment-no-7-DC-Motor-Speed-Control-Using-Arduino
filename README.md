@@ -1,8 +1,9 @@
-###  DATE: 5/04/2024
+
 
 ###  NAME: Divya R
 ###  ROLL NO :212222040040
 ###  DEPARTMENT:CSE
+###  DATE: 8/04/2024
 # Experiment-no-6-DC-Motor-Speed-Control-Using-Arduino
 ### AIM : To control the speed and the direction of a DC motor using L293D driver ic( H- bridge)
 
